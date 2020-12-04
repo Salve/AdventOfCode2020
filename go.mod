@@ -1,0 +1,1 @@
+module github.com/Salve/AdventOfCode2020
